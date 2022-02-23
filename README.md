@@ -6,3 +6,5 @@
 - exercicio final do livro shellscript do zero.
 - Modifiquei o código para tornar algo mais visual e agradável utilizando o dialog.
 - Não cheguei a testar, pois programei através do Termux(terminal no android) então não cheguei a testar se realmente funciona.
+
+_<a href="https://github.com/CloretoJannuzzi/Samba_shell/blob/main/smb.sh"> CLique aqui para ver o código!</a>_
